@@ -1,0 +1,6 @@
+run.bat
+target/
+.idea/
+.settings/
+.sonar/
+EAD.iml
